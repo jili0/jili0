@@ -1,4 +1,4 @@
-### Hi there 👋\n
+### Hi there 👋<br>
 🌱 I’m currently learning Full-stack Web- and Softwaredevelopment at DCI.<br>
 🔭 I’m currently working on Linux system.<br>
 📫 My E-mail: jing.li@dci-student.org<br>
