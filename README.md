@@ -1,7 +1,7 @@
 ### Hi there 👋\n
 🌱 I’m currently learning Full-stack Web- and Softwaredevelopment at DCI.<br>
-🔭 I’m currently working on Linux system.\n
-📫 My E-mail: jing.li@dci-student.org\n
+🔭 I’m currently working on Linux system.<br>
+📫 My E-mail: jing.li@dci-student.org<br>
 💬 Ask me about my favorite dishes! 😋😋😋
 <!--
 **jili0/jili0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
