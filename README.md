@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Full-stack Web- and Softwaredevelopment at DCI @DigitalCareerInstitute.
+🌱 I’m currently learning Full-stack Web- and Softwaredevelopment at DCI.
 🔭 I’m currently working on Linux system.
 📫 My E-mail: jing.li@dci-student.org
 💬 Ask me about my favorite dishes! 😋😋😋
