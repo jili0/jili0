@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jing Li</h1>
-<h3 align="center">A passionate fullstack developer based in Berlin, Germany.</h3>
+
+<h3 align="center">A passionate ![Static Badge](https://img.shields.io/badge/full_stack-developer-red)
+ based in Berlin, Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jili0&label=Profile%20views&color=0e75b6&style=flat" alt="jili0" /> </p>
 
