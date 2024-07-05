@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jing Li, a passionate full stack developer based in Berlin. &nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=jili0&label=Profile%20views&color=0e75b6&style=flat" alt="jili0" /></h1>
 <br>
 <h3>About me:</h3>
+
 - 🔭 I’m currently working on [DevLink](https://github.com/jili0/devlink)
 
 - 🌱 I’m currently learning **React.js**
