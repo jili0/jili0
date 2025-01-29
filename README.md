@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jing Li, a passionate full stack developer based in Berlin. <br><img src="https://komarev.com/ghpvc/?username=jili0&label=Profile%20views&color=edcc26&style=flat" alt="jili0" /></h1>
+<p><img  align="center" src="https://github-profile-trophy.vercel.app/?username=jili0&show_icons=true&locale=en&theme=onedark" alt="jili0" /></p>
 <br>
 <h3>About me:</h3>
 
@@ -33,5 +34,5 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jili0&show_icons=true&locale=en&theme=onedark" alt="jili0" /></p>
 <br>
-<p><img  align="center" src="https://github-profile-trophy.vercel.app/?username=jili0&show_icons=true&locale=en&theme=onedark" alt="jili0" /></p>
+
 
