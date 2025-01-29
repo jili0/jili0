@@ -33,9 +33,9 @@ I am a Full Stack Developer based in Berlin. I specialize in creating dynamic an
   - Figma
 
 ## Projects
-- [Project 1](https://example.com/project1): Brief description of project 1.
-- [Project 2](https://example.com/project2): Brief description of project 2.
-- [Project 3](https://example.com/project3): Brief description of project 3.
+- [Music App](https://jili0.me/musicApp/): Team project. Typescript.
+- [Portfolio](https://tailwind-portfolio-koi2.onrender.com/): Tailwind CSs.
+- [Amazing Shop](https://amazing-shop.onrender.com/): React, Sass.
 
 ## Contact
 - 👨‍💻 All of my projects are available at: [jingli.work](https://jingli.work)
