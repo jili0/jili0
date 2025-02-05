@@ -1,4 +1,4 @@
-<h1 align="center">Full Stack Developer, based in Berlin</h1>
+<h1 align="center">Full Stack Development</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jili0&label=Profile%20views&color=edcc26&style=flat" alt="jili0" />
 </p>
@@ -34,7 +34,7 @@ I am a Full Stack Developer based in Berlin. I specialize in creating dynamic an
 
 ## Projects
 - [Music App](https://jili0.me/musicApp/): Team project. Typescript.
-- [Portfolio](https://tailwind-portfolio-koi2.onrender.com/): Tailwind CSs.
+- [Portfolio](https://tailwind-portfolio-koi2.onrender.com/): Tailwind CSS.
 - [Amazing Shop](https://amazing-shop.onrender.com/): React, Sass.
 
 ## Contact
