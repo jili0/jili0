@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=jili0&label=Profile%20views&color=edcc26&style=flat" alt="jili0" />
 </p>
 
-<img width="1024" align="center" src="https://github-profile-trophy.vercel.app/?username=jili0&show_icons=true&locale=en&theme=onedark" alt="jili0" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=jili0&theme=onedark&rank=-C&title=-Issues,-Reviews)](https://github.com/jili0/github-profile-trophy)
 <br>
 
 ## Table of Contents
