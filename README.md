@@ -19,8 +19,6 @@ I'm an aspiring Full Stack Developer with a passion for writing clean code and f
 
 ✨ Let's connect! 🚀
 
-(Angehende Full Stack Entwicklerin mit einer Leidenschaft für sauberen Code und effiziente Lösungen. Ich lerne derzeit am DCI Institute in Berlin und arbeite mit modernen Web-Technologien. Hier auf GitHub teile ich meine Projekte und freue mich darauf, mit anderen Entwicklern in Kontakt zu treten, voneinander zu lernen und gemeinsam zu wachsen. ✨ Lass uns vernetzen! 🚀)
-
 ## Tech Stack
 - **Frontend:**
   - React
