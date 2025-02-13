@@ -13,8 +13,13 @@
 - [Contact](#contact)
 - [Connect with Me](#connect-with-me)
 
-## About Me
-I am a Full Stack Developer based in Berlin. I specialize in creating dynamic and responsive web applications using modern technologies. My passion lies in learning new technologies and implementing them in my projects.
+## 👋 Hi, ich bin Jing Li!
+
+I'm an aspiring Full Stack Developer with a passion for writing clean code and finding efficient solutions. Currently, I'm learning at the DCI Institute in Berlin, working with the latest web technologies. On GitHub, I share my projects and am excited to connect with fellow developers, learn together, and grow as a community.
+
+✨ Let's connect! 🚀
+
+(Angehende Full Stack Entwicklerin mit einer Leidenschaft für sauberen Code und effiziente Lösungen. Ich lerne derzeit am DCI Institute in Berlin und arbeite mit modernen Web-Technologien. Hier auf GitHub teile ich meine Projekte und freue mich darauf, mit anderen Entwicklern in Kontakt zu treten, voneinander zu lernen und gemeinsam zu wachsen. ✨ Lass uns vernetzen! 🚀)
 
 ## Tech Stack
 - **Frontend:**
