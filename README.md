@@ -1,51 +1,112 @@
-<h1 align="center">Full Stack Development</h1>
+<h1 align="center">Hi! I'm Jing Li 👩‍💻</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jili0&label=Profile%20views&color=edcc26&style=flat" alt="jili0" />
+  <img src="https://komarev.com/ghpvc/?username=jili0&label=Visitors&color=9370DB&style=flat" alt="jili0" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jili0&theme=onedark&rank=-C&title=-Issues,-Reviews)](https://github.com/jili0/github-profile-trophy)
-<br>
 
 ## Table of Contents
-- [About Me](#about-me)
-- [Tech Stack](#tech-stack)
-- [Projects](#projects)
-- [Contact](#contact)
-- [Connect with Me](#connect-with-me)
+- [About Me](#-about-me)
+- [Technologies](#-technologies)
+- [Projects](#-projects)
+- [Soft Skills](#-soft-skills)
+- [Education](#-education)
+- [Contact](#-contact)
 
-## 👋 Hi, ich bin Jing Li!
 
-I'm an aspiring Full Stack Developer with a passion for writing clean code and finding efficient solutions. Currently, I'm learning at the DCI Institute in Berlin, working with the latest web technologies. On GitHub, I share my projects and am excited to connect with fellow developers, learn together, and grow as a community.
+## 👋 About Me
 
-✨ Let's connect! 🚀
+I'm Jing Li, a tech enthusiast transitioning into Full Stack Development.
 
-## Tech Stack
-- **Frontend:**
-  - React
-  - Typescript
-  - Tailwind CSS
-  - Sass
-- **Backend:**
-  - MongoDB
-  - Express JS
-  - Node JS
-- **Others:**
-  - VS Code
-  - Git / GitHub
-  - Linux
-  - Figma
+My path to coding wasn't traditional. With a background in healthcare and a degree in nursing, I've always been fascinated by how technology can transform industries. My experience working with medical documentation systems sparked my interest in building digital solutions. Now I'm channeling my analytical mindset and problem-solving skills from healthcare into creating elegant code and user-friendly applications.
 
-## Projects
-- [Music App](https://jingli.work/musicApp/): Typescript (Team project)
-- [Amazing Shop](https://amazing-shop.onrender.com/): React & Sass
-- [Markdown Previewer](https://markdown-previewer-a9ax.onrender.com/): React & Sass
+My experience in healthcare has provided me with valuable skills:
+- Working under pressure in complex situations
+- Efficient multitasking and prioritization
+- Understanding of digital health systems
+- Documentation and data collection
 
-## Contact
-- 👨‍💻 All of my projects are available at: [jingli.work](https://jingli.work)
-- 📫 Write an email to contact me: **jingli0319@gmail.com**
+This combination of health IT experience and developer skills gives me a unique perspective on technical challenges.
 
-## Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/jili0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://stackoverflow.com/users/24250717" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40"/></a>
+
+## 💻 Technologies
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### Tools & Methods
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Agile](https://img.shields.io/badge/-Agile-009FDA?style=flat&logo=agile&logoColor=white)
+
+### Languages
+![German](https://img.shields.io/badge/-German_C2-black?style=flat)
+![English](https://img.shields.io/badge/-English_C1-black?style=flat)
+![Chinese](https://img.shields.io/badge/-Chinese_Native-black?style=flat)
+
+
+
+
+## 🚀 Projects
+
+### [MusicApp](https://jingli.work/music-app/) - TypeScript & React
+A music player application where I deliberately chose TypeScript to deepen my knowledge. [GitHub Repo](https://github.com/jili0/music-app)
+
+### [Amazing Shop](https://amazing-shop.onrender.com/) - React & SASS
+An e-commerce project where I used SASS for advanced styling. [GitHub Repo](https://github.com/jili0/amazing-shop)
+
+### [Markdown Previewer](https://markdown-previewer-a9ax.onrender.com/) - React
+A tool that converts Markdown syntax into formatted HTML in real-time. [GitHub Repo](https://github.com/jili0/markdown-previewer)
+
+### [Pawpose](https://pawpose.onrender.com/) - MERN Stack
+A pet adoption platform connecting shelters with potential pet parents. [GitHub Repo](https://github.com/jili0/pawpose)
+
+
+## 🌟 Soft Skills
+
+- **Strong self-learning ability** — From quickly learning German to C2 level to programming
+- **High self-motivation and initiative** — Always striving to do more than required
+- **Strong teamwork** — Experience in interdisciplinary teams in healthcare
+- **Resilience** — Efficient work even under pressure
+- **Intercultural competence** — Through personal international experience
+
+
+## 📚 Education
+
+- **Full Stack Web and Software Development** (03/2024 - 09/2025)  
+  DCI Digital Career Institute GmbH, Berlin
+- **JavaScript Algorithms and Data Structures** (2025)  
+  freeCodeCamp Certificate
+- **Bachelor in Community Nursing Science** (09/2011 - 06/2015)  
+  Hubei University of Traditional Chinese Medicine
+
+
+## 📫 Contact
+
+- 🌐 Portfolio: [jingli.work](https://jingli.work)
+- ✉️ Email: [jingli0319@gmail.com](mailto:jingli0319@gmail.com)
+
+<p align="center">
+  <a href="https://linkedin.com/in/jili0" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/jili0" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
 </p>
