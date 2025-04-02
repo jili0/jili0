@@ -1,9 +1,5 @@
 <h1 align="center">Hi! I'm Jing Li 👩‍💻</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jili0&label=Visitors&color=9370DB&style=flat" alt="jili0" />
-</p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=jili0&theme=onedark&rank=-C&title=-Issues,-Reviews)](https://github.com/jili0/github-profile-trophy)
 
 ## Table of Contents
@@ -13,7 +9,7 @@
 - [Soft Skills](#-soft-skills)
 - [Education](#-education)
 - [Contact](#-contact)
-
+<br><br>
 
 ## 👋 About Me
 
@@ -28,7 +24,7 @@ My experience in healthcare has provided me with valuable skills:
 - Documentation and data collection
 
 This combination of health IT experience and developer skills gives me a unique perspective on technical challenges.
-
+<br><br>
 
 ## 💻 Technologies
 
@@ -58,9 +54,7 @@ This combination of health IT experience and developer skills gives me a unique 
 ![German](https://img.shields.io/badge/-German_C2-black?style=flat)
 ![English](https://img.shields.io/badge/-English_C1-black?style=flat)
 ![Chinese](https://img.shields.io/badge/-Chinese_Native-black?style=flat)
-
-
-
+<br><br>
 
 ## 🚀 Projects
 
@@ -75,7 +69,7 @@ A tool that converts Markdown syntax into formatted HTML in real-time. [GitHub R
 
 ### [Pawpose](https://pawpose.onrender.com/) - MERN Stack
 A pet adoption platform connecting shelters with potential pet parents. [GitHub Repo](https://github.com/jili0/pawpose)
-
+<br><br>
 
 ## 🌟 Soft Skills
 
@@ -84,7 +78,7 @@ A pet adoption platform connecting shelters with potential pet parents. [GitHub 
 - **Strong teamwork** — Experience in interdisciplinary teams in healthcare
 - **Resilience** — Efficient work even under pressure
 - **Intercultural competence** — Through personal international experience
-
+<br><br>
 
 ## 📚 Education
 
@@ -94,12 +88,13 @@ A pet adoption platform connecting shelters with potential pet parents. [GitHub 
   freeCodeCamp Certificate
 - **Bachelor in Community Nursing Science** (09/2011 - 06/2015)  
   Hubei University of Traditional Chinese Medicine
-
+<br><br>
 
 ## 📫 Contact
 
 - 🌐 Portfolio: [jingli.work](https://jingli.work)
 - ✉️ Email: [jingli0319@gmail.com](mailto:jingli0319@gmail.com)
+<br>
 
 <p align="center">
   <a href="https://linkedin.com/in/jili0" target="_blank">
