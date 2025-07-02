@@ -50,6 +50,20 @@ This combination of health IT experience and developer skills gives me a unique 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile-009FDA?style=flat&logo=agile&logoColor=white)
 
+### DevOps & Deployment
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-003A70?style=flat&logo=letsencrypt&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat&logo=github-pages&logoColor=white)
+
+### Domain & DNS
+![Namecheap](https://img.shields.io/badge/-Namecheap-DE3910?style=flat&logo=namecheap&logoColor=white)
+
+
 ### Languages
 ![German](https://img.shields.io/badge/-German_C2-black?style=flat)
 ![English](https://img.shields.io/badge/-English_C1-black?style=flat)
